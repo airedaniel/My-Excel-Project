@@ -1,3 +1,7 @@
+## Summary of the Employee Salary and Demographics Dataset
+
+This dataset provides comprehensive employee-level information across multiple departments, job roles, and global locations. It includes 1000 records (Employees), each detailing personal, professional, and compensation-related attributes. This data is well-suited for organizational analysis across a variety of areas, including salary benchmarking, diversity assessments, geographic distribution, and workforce planning.
+
 ## Data Cleaning Summary
 Duplicates were removed to avoid counting the same employee twice.
 
@@ -19,10 +23,6 @@ Explored distributions of age and salary to understand employee demographics.
 Checked for correlations (e.g., age vs. salary, tenure vs. bonus).
 
 This process ensures the dataset is clean, structured, and ready for meaningful analysis and visualization.
-
-## Summary of the Employee Salary and Demographics Dataset
-
-This dataset provides comprehensive employee-level information across multiple departments, job roles, and global locations. It includes 1000 records (Employees), each detailing personal, professional, and compensation-related attributes. This data is well-suited for organizational analysis across a variety of areas, including salary benchmarking, diversity assessments, geographic distribution, and workforce planning.
 
 ## 📌 Core Attributes in the Dataset:
 
